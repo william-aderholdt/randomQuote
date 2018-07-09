@@ -1,20 +1,20 @@
-function Quotes {
+function Quotes = {
     1: {
         "quote": "If you can dream it, you can do it."
         "author": "Walt Disney"
-    };
+    },
     2: {
         "quote": "Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you."
         "author": "George Whitefield"
-    };
+    },
     3: {
         "quote": "The future belongs to those who believe in the beauty of their dreams."
         "author": "Eleanor Roosevelt"
-    };
+    },
     4: {
         "quote": "Aim for the moon. If you miss, you may hit a star."
         "author": "Clement Stone"
-    };
+    },
     5: {
         "quote": "Don't watch the clock; do what it does. Keep going."
         "author": "Sam Levenson"
